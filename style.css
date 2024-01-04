@@ -178,8 +178,8 @@
     border-radius: 4px;
   }
 
-  button2 {
-    background-color: #007bff;
+  .button2 {
+    background-color: #171818;
     color: #fff;
     padding: 10px 15px;
     border: none;
