@@ -29,7 +29,7 @@ const fs =require('fs');
 const hostname = '127.0.0.1';
 const port = 3000;
 
-const index = fs.readFileSync('index.html')
+const index = fs.readFileSync('./index.html')
 const Home = fs.readFileSync("./index.html")
 const about = fs.readFileSync("./about.html")
 const contact = fs.readFileSync("./contact.html")
